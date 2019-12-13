@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+theme: "jekyll-theme-architect"
+theme: 'jekyll-theme-architect'
+<script>theme: jekyll-theme-architect</script>
